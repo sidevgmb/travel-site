@@ -1,2 +1,5 @@
 import '../styles/styles.css'
-console.log('the sky is blue');
+
+if(module.hot) {
+    module.hot.accept();
+}
