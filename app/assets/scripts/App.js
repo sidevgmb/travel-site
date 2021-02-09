@@ -1,2 +1,2 @@
 import '../styles/styles.css'
-console.log('the sky is green');
+console.log('the sky is blue');
